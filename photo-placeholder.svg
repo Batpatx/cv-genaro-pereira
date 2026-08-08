@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="208" viewBox="0 0 208 208" role="img" aria-label="Foto de perfil (placeholder)">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E7F0F1"/>
+      <stop offset="1" stop-color="#D4E4E6"/>
+    </linearGradient>
+  </defs>
+  <rect width="208" height="208" fill="url(#bg)"/>
+  <g fill="#0F4C5C" opacity="0.85">
+    <circle cx="104" cy="82" r="36"/>
+    <path d="M104 126c-38 0-66 22-66 52v30h132v-30c0-30-28-52-66-52Z"/>
+  </g>
+  <text x="104" y="196" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#0F4C5C" opacity="0.55">GP</text>
+</svg>
